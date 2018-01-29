@@ -1,6 +1,6 @@
 ### January 29 2018 (week 8 of 24)
 
-- Goals for week 8
+#### Goals for week 8
   - [ ] Complete TS-2-b
   - [ ] Complete TS-2-c
   - [ ] Complete TS-31-b
@@ -22,5 +22,5 @@
 -------
 ##### Thursday - February 1, 2018
 - [ ]
-- [ ] 
+- [ ]
 -------
