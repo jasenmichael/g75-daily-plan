@@ -6,8 +6,10 @@
   - [ ] Complete TS-31-b
   - [ ] Complete TS-31-c
   - [ ] Spend 2 hours daily learning Vue.js
+  - [ ] Start ATS-12(Cypress) drills.
 -------
 ##### Monday - January 29, 2018
+- [ ] Goto Cypress breakout.
 - [ ] Review resume and deliverables for career services requirements due today.
 - [ ] Finish Vue.js code along project I started last night.
 - [ ] Reopen the candy shop drill 2 can-of-worms
