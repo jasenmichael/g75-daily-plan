@@ -18,18 +18,22 @@
 
 ###### Daily Goals:
 - [ ] Goto Cypress breakout.
-- [ ] Review resume and deliverables for career services requirements due today.
-- [ ] Finish Vue.js code along project I started last night.
-- [ ] Reopen the candy shop drill 2 can-of-worms
+- [x] Review resume and deliverables for career services requirements due today.
+- [x] Finish Vue.js code along project I started last night.
+- [x] Reopen the candy shop drill 2 can-of-worms
 -------
 ##### Tuesday - January 30, 2018
 > __Positive Affirmation of the day:__
 
-> ...
+> I have been hired by the universe to be myself.
+
+> Today is going to be a really, really good day.
 
 ###### Daily Goals:
-- [ ]
-- [ ]
+- [ ] Goto meditation at 1pm today.
+- [ ] Watch Cypress breakout I missed yesterday.
+- [ ] Complete candy shop drill 2
+- [ ] Goto Data Science capstones tonight.
 -------
 ##### Wednesday - January 31, 2018
 > __Positive Affirmation of the day:__
