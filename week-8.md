@@ -31,18 +31,22 @@
 
 ###### Daily Goals:
 - [ ] Goto meditation at 1pm today.
-- [ ] Watch Cypress breakout I missed yesterday.
-- [ ] Complete candy shop drill 2
-- [ ] Goto Data Science capstones tonight.
+- [x] Watch Cypress breakout I missed yesterday.
+- [ ] Complete galvanize-telephone drill 2
+- [x] Goto Data Science capstones tonight.
 -------
 ##### Wednesday - January 31, 2018
 > __Positive Affirmation of the day:__
 
-> ...
+> Being miserable is a habit; being happy is a habit; and the choice is yours.
+
+> Today is going to be the best day ever, again.
 
 ###### Daily Goals:
-- [ ]
-- [ ]
+- [x] Eat a massive breakfast!
+- [ ] Complete galvanize-telephone drill 2
+- [ ] Goto meditation at 1pm today.
+- [ ] Start the cypress drills
 -------
 ##### Thursday - February 1, 2018
 > __Positive Affirmation of the day:__
