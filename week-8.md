@@ -17,7 +17,7 @@
 > If our natural tendency to logically question things is discouraged and we are instead rewarded for actions that we often don't see the meaning of, the brain adapts to this and gradually gives up on independent logical inquiry. Instead we become disproportionately dedicated to seeking the approval of others. Our opinions, our identity, our way of life ends up depending on how we are judged by our social circle and by society at large.
 
 ###### Daily Goals:
-- [ ] Goto Cypress breakout.
+- [ ] ~~Goto Cypress breakout.~~
 - [x] Review resume and deliverables for career services requirements due today.
 - [x] Finish Vue.js code along project I started last night.
 - [x] Reopen the candy shop drill 2 can-of-worms
@@ -30,9 +30,9 @@
 > Today is going to be a really, really good day.
 
 ###### Daily Goals:
-- [ ] Goto meditation at 1pm today.
+- [ ] ~~Goto meditation at 1pm today.~~
 - [x] Watch Cypress breakout I missed yesterday.
-- [ ] Complete galvanize-telephone drill 2
+- [ ] ~~Complete galvanize-telephone drill 2~~
 - [x] Goto Data Science capstones tonight.
 -------
 ##### Wednesday - January 31, 2018
@@ -44,16 +44,21 @@
 
 ###### Daily Goals:
 - [x] Eat a massive breakfast!
-- [ ] Complete galvanize-telephone drill 2
-- [ ] Goto meditation at 1pm today.
-- [ ] Start the cypress drills
+- [ ] ~~Complete galvanize-telephone drill 2~~
+- [ ] ~~Goto meditation at 1pm today.~~
+- [ ] ~~Start the cypress drills~~
 -------
 ##### Thursday - February 1, 2018
 > __Positive Affirmation of the day:__
 
-> ...
+> I am superior to negative thoughts and low actions.
+
+>  I am guided in my every step by Spirit who leads me towards what I must know and do.
+
+> Happiness is a choice. I base my happiness on my own accomplishments and the blessings I have been given.
 
 ###### Daily Goals:
-- [ ]
-- [ ]
+- [ ] focus galvanize-telephone drill 2 !!!!
+- [ ] Goto meditation at 1pm today.
+- [ ] Goto g64 capstones.
 -------
