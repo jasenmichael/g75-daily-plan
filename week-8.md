@@ -58,7 +58,19 @@
 > Happiness is a choice. I base my happiness on my own accomplishments and the blessings I have been given.
 
 ###### Daily Goals:
-- [ ] focus galvanize-telephone drill 2 !!!!
+- [x] focus galvanize-dom drill 2 & 3 !!!!
+- [ ] ~~Goto meditation at 1pm today.~~
+- [ ] ~~Goto g64 capstones.~~
+-------
+##### Friday - February 2, 2018
+> __Positive Affirmation of the day:__
+
+> If I believe it, I can achieve it
+
+> The instructors are humble, and their primary focus is the my success.
+
+###### Daily Goals:
+- [ ] finish dom drill 3 and submit.
 - [ ] Goto meditation at 1pm today.
-- [ ] Goto g64 capstones.
+- [ ] ....
 -------
