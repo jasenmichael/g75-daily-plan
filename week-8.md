@@ -67,7 +67,7 @@
 
 > If I believe it, I can achieve it
 
-> The instructors are humble, and their primary focus is the my success.
+> The instructors are humble, and their primary focus is my success.
 
 ###### Daily Goals:
 - [ ] finish dom drill 3 and submit.
